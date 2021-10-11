@@ -1,0 +1,29 @@
+.container {
+	width: 800px;
+	background-color: #ddd;
+	margin: 40px auto;
+}
+
+.item {
+	padding: 30px;
+	font-size: 30px;
+	color: #fff;
+}
+.item1 {
+	background-color: orangered;
+}
+.item2 {
+	background-color: olivedrab;
+}
+.item3 {
+	background-color: royalblue;
+}
+.item4 {
+	background-color: palevioletred;
+}
+.item5 {
+	background-color: goldenrod;
+}
+.item6 {
+	background-color: blueviolet;
+}
